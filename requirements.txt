@@ -1,0 +1,13 @@
+    # === DEPENDENCIAS DEL PROYECTO ===
+yfinance
+requests
+streamlit
+plotly
+pandas
+streamlit-autorefresh
+supabase
+python-dotenv
+    # === FIN DE DEPENDENCIAS ===
+
+    # === INSTALACIÓN USANDO requirements.txt ===
+        #pip install -r requirements.txt
