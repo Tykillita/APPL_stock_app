@@ -360,7 +360,7 @@ with col3:
 
 # Botón para limpiar filtros
 if st.button("🗑️ Limpiar todos los filtros"):
-    st.experimental_rerun()
+    st.rerun()
 
 # ===== APLICAR FILTROS =====
 if not df.empty:
