@@ -360,6 +360,11 @@ with col3:
 
 # Botón para limpiar filtros
 if st.button("🗑️ Limpiar todos los filtros"):
+    # Limpiar session state de filtros específicos
+    filter_keys = ["date_filter", "time_filter", "price_filter", "volatility_filter", "volume_filter", "trend_filter"]
+    for key in filter_keys:
+        if key in st.session_state:
+            del st.session_state[key]
     st.rerun()
 
 # ===== APLICAR FILTROS =====
