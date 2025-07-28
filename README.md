@@ -316,10 +316,9 @@ numpy>=1.21.0
 ## 👨‍💻 Autor
 
 **Tu Nombre**
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- Email: tu.email@ejemplo.com
-- LinkedIn: [Tu Perfil](https://linkedin.com/in/tu-perfil)
-- Proyecto: [Apple Stock Dashboard](https://github.com/tu-usuario/apple-stock-dashboard)
+- GitHub: [@tykillita](https://github.com/tykillita)
+- LinkedIn: [rubenpino](https://www.linkedin.com/in/rubenpino/)
+- Proyecto: [Apple Stock Dashboard](https://github.com/tykillita/apple-stock-dashboard)
 
 ## 🙏 Agradecimientos
 
